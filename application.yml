@@ -1,0 +1,4 @@
+toggle:
+  feature1: true
+  feature2: true
+greeting: "greetings from default"
