@@ -1,3 +1,4 @@
 toggle:
   feature1: true
   feature2: false
+greeting: "greetings from dev"
